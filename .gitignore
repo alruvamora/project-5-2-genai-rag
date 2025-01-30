@@ -1,0 +1,5 @@
+.git/
+.ipynb_checkpoints/
+old/
+__pycache__/
+api.py
