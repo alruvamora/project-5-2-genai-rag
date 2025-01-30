@@ -7,7 +7,8 @@ This application allows users to generate flashcards from PDF files using artifi
 ## 🚀 How to Use the Application?
 
 1. **Upload the PDF**  
-   - In the sidebar, select a PDF file containing the information you want to convert into flashcards.  
+   - In the sidebar, select a PDF file containing the information you want to convert into flashcards.
+   - Select the number of flashcards you want 
 
 2. **Wait for Processing**  
    - The application will extract text from the PDF and automatically generate flashcards.  
